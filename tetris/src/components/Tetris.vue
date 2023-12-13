@@ -35,7 +35,7 @@
 
 <script>
 export default {
-  name: "Snake",
+  name: "Tetris",
   data() {
     return {
       row: 0,

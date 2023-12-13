@@ -1,15 +1,15 @@
 <template>
   <div>
-    <Snake></Snake>
+    <Tetris></Tetris>
   </div>
 </template>
 
 <script>
-import Snake from './components/Snake.vue'
+import Tetris from './components/Tetris.vue'
 export default {
   name:'App',
   components:{
-    Snake
+    Tetris
   }
 }
 </script>
